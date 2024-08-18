@@ -116,8 +116,8 @@ a {
 	background-image: none;
 }
 .navbar-dark .navbar-toggler {
-	border-color: #3a8bcd;
-	background-color: #3a8bcd;	
+	border-color: #FC1010;
+	background-color: #FC1010;	
 	height: 50px;
 	outline: none;
 }
@@ -152,7 +152,7 @@ a {
 .banner .caption .line-dec {
 	width: 30px;
 	height: 5px;
-	background-color: #3a8bcd;
+	background-color: #FC1010;
 }
 .banner .caption p {
 	margin-top: 15px;
@@ -183,10 +183,10 @@ a {
 	transition: all 0.5s;
 }
 .featured-item:hover h4 {
-	color: #3a8bcd;
+	color: #FC1010;
 }
 .featured-item h6 {
-	color: #3a8bcd;
+	color: #FC1010;
 	font-size: 15px;
 	font-weight: 700;
 	margin-bottom: 0px;
